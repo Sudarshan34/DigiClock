@@ -1,4 +1,4 @@
-
+https://sudarshan34.github.io/DigiClock/
 
 I have used updateClock function is defined. Inside this function,it creates a new Date object representing the current date and time and
 It retrieves the current hours, minutes, and seconds using the getHours, getMinutes, and getSeconds methods of the Date object. These values are converted to strings with zeros if needed to ensure they 
